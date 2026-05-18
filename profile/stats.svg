@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Devin Spikowski's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 330, Total Commits  (last year) : 85, Total PRs: 89, Total Issues: 103</desc>
+        <desc id="descId">Total Stars Earned: 330, Total Commits  (last year) : 81, Total PRs: 89, Total Issues: 103</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 68.79205830881862;
+        stroke-dashoffset: 69.92790870444868;
       }
     }
   
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >85</text>
+      >81</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
